@@ -7,7 +7,7 @@ Implementation of this model determines which products are most likely to be pur
 
 The retailers can then adjust sales strategies.
 
-The data Data sets consist of data items names and 20 tuples for each dataset. The items and translations are selected randomly based on data from each site. 
+The data sets consist of data items names and 20 tuples for each dataset. The items and translations are selected randomly based on data from each site. 
 
 Shoprite data base is using the labels A,B,C, D, E as items names and transactions.The Custom data is filled by the user to any other data to use. 
 
