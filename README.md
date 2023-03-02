@@ -1,4 +1,4 @@
-# Sales-Strategies-for-Supermarkets-using-Machine-Learning
+# Sales Strategies for Supermarkets using Machine Learning
 
 Developed and Implemented Apriori algorithm in Python from scratch in the 5 transactional datasets (Nike, Adidas, Shoprite, K-mart, Best-Buy) of the past 
 5 years. 
