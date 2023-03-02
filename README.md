@@ -5,7 +5,7 @@ Developed and Implemented Apriori algorithm in Python from scratch in the 5 tran
 
 Implementation of this model determines which products are most likely to be purchased together using user defined support and confidence.
 
-The retailers can then adjust sales strategies.
+The retailers can then adjust marketing and sales strategy to take advantage of this information.
 
 The data sets consist of data items names and 20 tuples for each dataset. The items and translations are selected randomly based on data from each site. 
 
